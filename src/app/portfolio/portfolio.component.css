@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Zilla+Slab+Highlight&subset=latin-ext');
+#burger {
+  background: #3a454d;
+  width: 450px;
+  height: 300px;
+}
+
+#hackcity {
+  background: #3a454d;
+  width: 450px;
+  height: 300px;
+}
+
+.projectlists>li {
+  list-style: none;
+  display: inline-block;
+}
+
+.projectlists {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#portheading {
+  font-size: 350%;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.next-to {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.buttons {
+  border-radius: 7px;
+  border-width: 3px;
+  border-color: white;
+  background: transparent;
+  color: white;
+  padding: 10px 50px;
+  transition: all 0.5s;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: 10px;
+  font-size: 150%;
+}
+
+.buttons:hover {
+  background: white;
+  font-family: 'Kaushan Script', cursive;
+  color: #3a454d;
+}
+#burger-link {
+  color:white;
+  text-decoration: none;
+  
+}

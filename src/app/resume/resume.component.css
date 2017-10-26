@@ -1,0 +1,42 @@
+.next-to {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .resume {
+      margin: 10px auto;
+      display: flex;
+      justify-content: center;
+     
+  }
+  .buttons {
+   
+    border-radius: 7px;
+    border-width: 3px;
+    border-color: white;
+    background: transparent;
+    color: white;
+    padding: 10px 50px;
+    transition: all 0.5s;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 10px;
+    font-size: 150%;
+    text-decoration: none;
+  }
+  
+  .buttons:hover {
+    background: white;
+    
+  }
+  .buttons > a {
+      color: white;
+      font-family: 'Kaushan Script', cursive;
+     
+      
+      text-decoration: none;
+  }
+
+  .buttons > a:hover {
+    color: #3a454d;
+    background: white;
+    transition: all 0.5s;
+  }

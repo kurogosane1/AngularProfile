@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Zilla+Slab+Highlight&subset=latin-ext');
+
+.skillboxes {
+    margin-top: 100px;
+}
+.skills-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.skills-list> li {
+    display: inline-block;
+    flex:1;
+    flex-basis: 20%;
+    align-content: center;
+    text-align: center;
+}
+.skills-paragraph {
+    align-content: center;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+}
+.skills-icons> i {
+    color:#69a3a0; 
+}

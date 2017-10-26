@@ -1,0 +1,16 @@
+.navbar-nav li>a:hover {
+    background:#69a3a0; 
+    color: #ffffff;
+    transition-delay: 0.8ms;
+    font-weight: 100px;
+}
+.navbar-brand:hover {
+    background:#69a3a0; 
+    color: #ffffff;
+    transition: all 0.8ms;
+}
+
+
+@media screen {
+    
+}

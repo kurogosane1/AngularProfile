@@ -1,0 +1,36 @@
+.contact-heading > h3 {
+    font-size: 350%;
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.contact-paragraph >h5 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 150%;
+    color: white;
+}
+
+.contacting-me {
+    display: flex;
+    justify-content: center;
+}
+
+.contacts {
+    list-style: none;
+    padding-top: 20px;
+    margin: 20px auto;
+    
+}
+.contacts > i {
+    color: white;
+}
+.contacts >i:hover {
+    color: inherit;
+    background: #3a454d;
+    z-index: 10;
+    transition: all 0.3s;
+}
+

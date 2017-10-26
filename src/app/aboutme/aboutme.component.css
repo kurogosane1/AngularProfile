@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Zilla+Slab+Highlight&subset=latin-ext');
+#aboutmesection {
+  top: 10px;
+  z-index: 10;
+  background: white;
+  -webkit-box-shadow: 0px 36px 43px 8px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 0px 36px 43px 8px rgba(0, 0, 0, 0.59);
+  box-shadow: 0px 36px 43px 8px rgba(0, 0, 0, 0.59);
+}
+
+#aboutmesection>h2 {
+  color: #69a3a0;
+  align-content: center;
+ 
+  margin: 5px auto;
+  text-align: center;
+  
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  color: #69a3a0;
+  
+}
+
+article {
+  padding: 40px;
+  margin: 30px 50px 0px 50px;
+  text-align: center;
+  font-size: 130%;
+}
+
+#aboutheading {
+  margin-top: 30px;
+  font-size: 350%;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.next-to {
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.buttons {
+  border-radius: 7px;
+  border-width: 3px;
+  border-color: white;
+  background: transparent;
+  color: white;
+  padding: 10px 50px;
+  transition: all 0.5s;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: 10px;
+  font-size: 150%;
+}
+
+.buttons:hover {
+  background: white;
+  font-family: 'Kaushan Script', cursive;
+  color: #3a454d;
+  
+}
